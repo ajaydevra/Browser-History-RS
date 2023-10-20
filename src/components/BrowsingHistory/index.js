@@ -139,7 +139,7 @@ class BrowsingHistory extends Component {
             className="history"
           />
           <div className="search-cont">
-            <button className="search-btn" type="button" testid="search">
+            <button className="search-btn" type="button" data-testid="delete">
               <img
                 src="https://assets.ccbp.in/frontend/react-js/search-img.png"
                 alt="search"
